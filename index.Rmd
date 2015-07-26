@@ -82,6 +82,6 @@ Add a visualistion component such as a google motion chart, rCharts or any inter
 
 <h3>Useful Links</h3>
 
-- [link to github](https://github.com/MartyP233/DevDataProductsProject)
+- [link to github](https://github.com/MartyP233/DataProducts)
 - [link to app](https://martyp233.shinyapps.io/ShinyApp-1)
 - [link to more info on dataset](http://www.ssc.govt.nz/workforce-stats)
